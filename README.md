@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp; About me:</h3> 
 
 - 🔭 I’m currently a full time student at Microverse Inc.
-- 🔭 I have agile practical and professional, 3+ years of _Product Management_, programming in  ```(PHP, JS, Jquery, HTML & CSS)```, and building ```Startups```.
+- 🔭 I have agile, practical and professional, 3+ years of _Product Management_, programming in  ```(PHP, JS, Jquery, HTML & CSS)```, and building ```Startups```.
 - 🌱 I’m currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript and React)``` while aspiring to learn ```Go``` programming to its core.
 - 👯 I’m looking to work to working with teams in building Business management systems and software.
 - 💬 Ask me about anything, I am happy to Help and learn from you.
