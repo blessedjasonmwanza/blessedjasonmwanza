@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="wave.gif" width="40px">, I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">An enthusiastic Full-stack; business software, cloud systems, payments & API integrations web developer. I enjoy collaborating with teams in solving; community, business, and global problems using lines of code 🤓. </p>
+> ### <p align="center" width="150px">I am an enthusiastic and Full-stack; business & cloud-based systems, Payments, API integrations,  Web and software developer. I enjoy collaborating with teams in solving; community, business, and global problems using lines of code. 🤓. </p>
 
 
 <h3> 👨🏻‍💻 &nbsp; About me:</h3> 
