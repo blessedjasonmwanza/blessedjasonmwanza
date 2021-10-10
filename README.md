@@ -60,9 +60,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/blessedjasonmwanza/"><img src="https://img.shields.io/badge/blessedjasonmwanza-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mwanzabj@gmail.com"><img src="https://img.shields.io/badge/-mwanzabj@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://medium.com/@mwanzabj"><img src="https://img.shields.io/badge/-@mwanzabj-1DA1F2?style=for-the-badge&logo=medium&logoColor=red"/></a>
+<a href="https://instagram.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
 <a href="https://www.youtube.com/channel/UCarmzp5wfUxvCGScIwJZNfg"><img src="https://img.shields.io/badge/-Blessed%20Jason%20Mwanza-1DA1F2?style=for-the-badge&logo=youtube&logoColor=red"/></a>
 </p>
-
 ---
