@@ -9,7 +9,7 @@
 
 - 🔭 I am currently a full-time student at Microverse Inc.
 - 🔭 I have agile, practical, and professional, ```3+ years``` of programming and building viable products and ```Startups``` with; ```(PHP, MYSQL, SQLite, JS, Jquery, HTML & CSS)```.
-- 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript, and React)``` while aspiring to learn Go programming to its core.
+- 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript, and React)```, while aspiring to learn ```Go``` programming to its core.
 - 👯 I am looking forward to working with teams in building Business management systems, and viable software solutions.
 - 💬 Ask me about anything; I am happy to help and learn from you.
 - 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://AlomoSystem.com)
@@ -24,8 +24,10 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JavaQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=Jquery)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=02569B)&nbsp;
+![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-05122A?style=flat&logo=phpmyadmin)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
