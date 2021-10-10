@@ -10,7 +10,7 @@
 - 🔭 I am currently a full-time student at Microverse Inc.
 - 🔭 I have agile, practical, and professional, ```3+ years``` of programming and building viable products and ```Startups``` with; ```(PHP, MYSQL, SQLite, JS, Jquery, HTML & CSS)```.
 - 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript, and React)``` while aspiring to learn Go programming to its core.
-- 👯 I am looking to work to working with teams in building Business management systems and software.
+- 👯 I am looking forward to working with teams in building Business management systems and vaible software solutions.
 - 💬 Ask me about anything; I am happy to help and learn from you.
 - 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://AlomoSystem.com)
 - 📄 Please have a look at my [Résumé](https://drive.google.com/file/d/1rWhgahpcgw5ozks6DS-2RGShfppCk2Wf/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
