@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp; About me:</h3> 
 
 - 🔭 I am currently a full-time student at Microverse Inc.
-- 🔭 I have agile, practical, and professional, ```3+ years``` of programming and building viable products and ```Startups``` with; ```(PHP, MYSQL, SQLite, JS, Jquery, HTML & CSS)```.
+- 🔭 I have agile, practical, and professional, ```3+ years``` of programming, building viable products, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JS, Jquery, HTML & CSS)```.
 - 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript, and React)```, while aspiring to learn ```Go``` programming to its core.
 - 👯 I am looking forward to working with teams in building Business management systems, and viable software solutions.
 - 💬 Ask me about anything; I am happy to help and learn from you.
@@ -18,7 +18,7 @@
 
 <br>
 
-> ### 🛠 &nbsp;Here are Tech Stacks my brain plays with on a daily basis. 🤓 I Make magic with these:
+> ### 🛠 &nbsp;Here are Tech Stacks my brain plays with on a daily basis. 🤓 I Make magic and solve complex problems using the following technologies:
 
 <br>
 
@@ -41,7 +41,7 @@
 <br>
 <br>
 
-> ### 📈  &nbsp; My GitHub Stats Summery
+<h1 align="center">### 📈  &nbsp; My GitHub Stats Summery</h1>
 
 <p align="center"><b>Visitor's Count from Oct 10, 2021</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bblessedjasonmwanza%7D/count.svg" alt="visitor badge"/></p>
@@ -55,6 +55,10 @@
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=blessedjasonmwanza&theme=chartreuse-dark"></p>
 <br>
+<p align="center">
+  <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=blessedjasonmwanza&theme=chartreuse-dark">
+</p>
 
 > ### 🤝🏻  &nbsp;Connect with me, I would love to build the future with you and your team.
 <br>
