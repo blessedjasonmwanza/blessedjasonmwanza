@@ -2,23 +2,24 @@
 
 <h1 align="center">Hi <img src="wave.gif" width="40px">, I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">I am an enthusiastic and Full-stack; business & cloud-based systems, Payments, API integrations,  Web and software developer. I enjoy collaborating with teams in solving; community, business, and global problems using lines of code. 🤓. </p>
+> ### <p align="center" width="150px">Passion driven Full-stack (Front-End & back-End) Cloud and Web Applications developer. I enjoy building; business & cloud-based systems, Payments platforms, API integrations, and CRM software systems. I love collaborating with teams in solving; community, business, and real global problems, using lines of code. 🤓. </p>
 
 
-<h3> 👨🏻‍💻 &nbsp; About me:</h3> 
 
-- 🔭 I am currently a full-time student at Microverse Inc.
-- 🔭 I have agile, practical, and professional, ```3+ years``` of programming, building viable products, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JS, Jquery, HTML & CSS)```.
-- 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby on Rails, JavaScript, and React)```, while aspiring to learn ```Go``` programming to its core.
-- 👯 I am looking forward to working with teams in building Business management systems, and viable software solutions.
-- 💬 Ask me about anything; I am happy to help and learn from you.
-- 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://AlomoSystem.com)
-- 📄 Please have a look at my [Résumé](https://drive.google.com/file/d/1rWhgahpcgw5ozks6DS-2RGShfppCk2Wf/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+<h2> 👨🏻‍💻 &nbsp; About me:</h2> 
 
+- 🔭 I am currently a full-time student at Microverse Inc. and a strong code advocate / [evangelist](https://facebook.com/compoundCode) 👨🏻‍💻.
+- 🔭 I have agile, practical, and ```3+ years``` of professional programming in building viable products, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, Jquery, HTML & CSS)```.
+- 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby, Ruby on Rails, JavaScript, and React)```, while aspiring to learn ```Go``` programming to its core.
+- 👯 I am curiously looking forward to working with teams in building; Business management systems, web applications, and viable software solutions.
+- 💬 Ask me about anything; I am happy to help and would love to learn from you as well.
+- 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://AlomoSystem.com) and Just deployed another one recently; [Check out **BraveLender**](https://bravelender.com).
+
+- > Would you like us to work together? Feel free, you can read on or reach out to me. I am open to advise and learning from you.
 
 <br>
 
-> ### 🛠 &nbsp;Here are Tech Stacks my brain plays with on a daily basis. 🤓 I Make magic and solve complex problems using the following technologies:
+> ### 🛠 &nbsp;Here are Tech Stacks my brain plays with on a daily basis. 🤓 I Make magic, and solve complex problems using the following technologies:
 
 <br>
 
@@ -41,8 +42,8 @@
 <br>
 <br>
 
-<h1 align="center">### 📈  &nbsp; My GitHub Stats Summery</h1>
-
+<h2 align="center"> 📈  &nbsp; How about you take a look at my GitHub Stats Summery 😍 </h2>
+<hr>
 <p align="center"><b>Visitor's Count from Oct 10, 2021</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bblessedjasonmwanza%7D/count.svg" alt="visitor badge"/></p>
 
@@ -60,7 +61,20 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=blessedjasonmwanza&theme=chartreuse-dark">
 </p>
 
-> ### 🤝🏻  &nbsp;Connect with me, I would love to build the future with you and your team.
+<h2 align="center"> 📰  &nbsp; And oh - almost forgot 😃. Here are some articles I have been featured in 📖 </h2>
+<hr>
+
+- [FinTech Startup Spotlight: Alomo System](https://bongohive.co.zm/startup-spotlight-alomo-system/)
+
+- [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandream.info/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/);
+
+- [Introducing Progate To Cavendish University Zambia — The Awesome Experience />](https://medium.com/progate/introducing-progate-to-cavendish-university-zambia-the-awesome-experience-30707f999669)
+
+<hr>
+<h3 align="center">Would you like to Connect with me?</h3>
+<hr>
+
+> ### 🤝🏻  &nbsp; I would love to build the future with you and your team. Reach out to me using any medium hereunder;
 <br>
 
 <p align="center">
