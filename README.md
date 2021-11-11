@@ -2,24 +2,24 @@
 
 <h1 align="center">Hi <img src="wave.gif" width="40px">, I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">Passion driven Full-stack (Front-End & back-End) Cloud and Web Applications developer. I enjoy building; business & cloud-based systems, Payments platforms, API integrations, and CRM software systems. I love collaborating with teams in solving; community, business, and real global problems, using lines of code. 🤓. </p>
+> ### <p align="center" width="150px">Passion-driven Full-stack (Front-End & back-End) Cloud and Web Applications developer.  I enjoy building; business & cloud-based systems, Payments platforms, API integrations, and CRM software systems. I love collaborating with teams in solving; community, business, and real global problems using lines of code.🤓 </p>
 
 
 
 <h2> 👨🏻‍💻 &nbsp; About me:</h2> 
 
-- 🔭 I am currently a full-time student at Microverse Inc. and a strong code advocate / [evangelist](https://facebook.com/compoundCode) 👨🏻‍💻.
-- 🔭 I have agile, practical, and ```3+ years``` of professional programming in building viable products, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, Jquery, HTML & CSS)```.
-- 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby, Ruby on Rails, JavaScript, and React)```, while aspiring to learn ```Go``` programming to its core.
-- 👯 I am curiously looking forward to working with teams in building; Business management systems, web applications, and viable software solutions.
+- 🔭 I am currently a full-time student at Microverse Inc. and a strong code advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻.
+- 🔭 I have agile, practical, and ```3+ years``` of professional programming in building ```viable products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, Jquery, HTML & CSS)```.
+- 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby, Ruby on Rails, JavaScript, and React)``` while aspiring to learn ```Go``` programming to its core.
+- 👯 I am curiously looking forward to working with teams and building; Business management systems, web applications, and viable software solutions.
 - 💬 Ask me about anything; I am happy to help and would love to learn from you as well.
 - 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://AlomoSystem.com) and Just deployed another one recently; [Check out **BraveLender**](https://bravelender.com).
 
-- > Would you like us to work together? Feel free, you can read on or reach out to me. I am open to advise and learning from you.
+- > Would you like us to work together? Feel free, you can read on or reach out to me. I am open to advice and learning from you.
 
 <br>
 
-> ### 🛠 &nbsp;Here are Tech Stacks my brain plays with on a daily basis. 🤓 I Make magic, and solve complex problems using the following technologies:
+> ### 🛠 &nbsp;Here are Tech Stacks my brain plays with on a daily basis. 🤓 I Make magic, and solve complex problems using the following technologies::
 
 <br>
 
