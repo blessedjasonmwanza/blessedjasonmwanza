@@ -66,7 +66,7 @@
 
 - [FinTech Startup Spotlight: Alomo System](https://bongohive.co.zm/startup-spotlight-alomo-system/)
 
-- [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandream.info/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/);
+- [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandreamsl.com/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/);
 
 - [Introducing Progate To Cavendish University Zambia — The Awesome Experience />](https://medium.com/progate/introducing-progate-to-cavendish-university-zambia-the-awesome-experience-30707f999669)
 
