@@ -2,20 +2,21 @@
 
 <h1 align="center">Hi <img src="wave.gif" width="40px">, I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">Passion-driven Full-stack (Front-End & back-End) Cloud and Web Applications developer.  I enjoy building; business & cloud-based systems, Payments platforms, API integrations, and CRM software systems. I love collaborating with teams in solving; community, business, and real global problems using lines of code.🤓 </p>
+> ### <p align="center" width="150px">Passion-driven Full-stack (Front-End & back-End) Cloud and Web Applications developer.  I enjoy building; business & cloud-based systems, Payments platforms, API integrations, CRM software systems and Automation tools. I love collaborating with teams in solving; community, business, and real global problems using lines of code.🤓 </p>
 
 
 
 <h2> 👨🏻‍💻 &nbsp; About me:</h2> 
 
 - 🔭 I am currently a full-time student at Microverse Inc. and a strong code advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻.
-- 🔭 I have agile, practical, and ```3+ years``` of professional programming in building ```viable products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, Jquery, HTML & CSS)```.
+- 🔭 I have agile, practical, and ```4+ years``` of professional programming in building ```viable products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
 - 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby, Ruby on Rails, JavaScript, and React)``` while aspiring to learn ```Go``` programming to its core.
-- 👯 I am curiously looking forward to working with teams and building; Business management systems, web applications, and viable software solutions.
+- 👯 I am curiously looking forward to working with teams and building; Business management systems, Automation tools, web applications, and viable software solutions.
 - 💬 Ask me about anything; I am happy to help and would love to learn from you as well.
-- 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://AlomoSystem.com) and Just deployed another one recently; [Check out **BraveLender**](https://bravelender.com).
+- 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://AlomoSystem.com/demo) and Just deployed another one recently; [Check out **BraveLender**](https://bravelender.com).
+- I am currently building [AfriLending](https://afrilending.com) - A Peer to Peer lending technolog, using ```ReactJS```
 
-- > Would you like us to work together? Feel free, you can read on or reach out to me. I am open to advice and learning from you.
+- > Would you like us to work together or with your team? Feel free, you can read on or reach out to me. I am open to advice and learning from you.
 
 <br>
 
@@ -25,7 +26,8 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![JavaQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=Jquery)&nbsp;
+![ReactJavaScript](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=Jquery)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=02569B)&nbsp;
 ![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-05122A?style=flat&logo=phpmyadmin)&nbsp;
@@ -61,6 +63,61 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=blessedjasonmwanza&theme=chartreuse-dark">
 </p>
 
+<h3> 📚 A little sneak peek of books I have read...</h3>
+
+
+```javascript
+const Books = [
+    {
+      title: 'The Magic Ladder to Success',
+      Auther: 'Napoleon Hill'
+    },
+    {
+      title: 'As a Man Thinketh',
+      Auther: 'James Allen'
+    },
+    {
+      title: 'Zero To One',
+      Auther: 'Peter Thiel'
+    },
+    {
+      title: 'The Richest Man in Babylon',
+      Auther: 'George S. Clason'
+    },
+    {
+      title: 'The One Minute Manager',
+      Auther: ['Ken Blanchard', 'Dr Spencer Johnson']
+    },
+    {
+      title: 'What the CEO Wants you to Know',
+      Auther: 'Ram Charan'
+    },
+    {
+      title: 'Who Moved My Cheese',
+      Auther: 'Dr Spencer Johnson'
+    },
+    {
+      title: 'The Game of Life and How to Play it',
+      Auther: 'Forence Scovel Shinn'
+    },
+    {
+      title: 'Just Be Glad',
+      Auther: 'Christian D. Larson'
+    },
+    {
+      title: 'It Works',
+      Auther: 'RHJ'
+    },
+    {
+      title: 'Outwitting the Devil',
+      Auther: 'Napoleon Hill'
+    },
+    {
+      title: 'Success The Best of Napoleon Hill',
+      Auther: 'Napoleon Hill'
+    },
+]
+```
 <h2 align="center"> 📰  &nbsp; And oh - almost forgot 😃. Here are some articles I have been featured in 📖 </h2>
 <hr>
 
@@ -71,7 +128,7 @@
 - [Introducing Progate To Cavendish University Zambia — The Awesome Experience />](https://medium.com/progate/introducing-progate-to-cavendish-university-zambia-the-awesome-experience-30707f999669)
 
 <hr>
-<h3 align="center">Would you like to Connect with me?</h3>
+<h3 align="center">Would you like to Connect with me? let us work together...</h3>
 <hr>
 
 > ### 🤝🏻  &nbsp; I would love to build the future with you and your team. Reach out to me using any medium hereunder;
