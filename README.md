@@ -63,7 +63,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=blessedjasonmwanza&theme=chartreuse-dark">
 </p>
 
-<h3> 📚 A little sneak peek of books I have read...</h3>
+<h3> 📚 A little sneak peek of 'some' of the books I have read...</h3>
 
 
 ```javascript
@@ -128,10 +128,14 @@ const Books = [
 - [Introducing Progate To Cavendish University Zambia — The Awesome Experience />](https://medium.com/progate/introducing-progate-to-cavendish-university-zambia-the-awesome-experience-30707f999669)
 
 <hr>
-<h3 align="center">Would you like to Connect with me? let us work together...</h3>
+
+
+> <h3 align="center">Do you love taking intuitive approaches to solving problems? Connect with me, let us work together...</h3>
+
+
 <hr>
 
-> ### 🤝🏻  &nbsp; I would love to build the future with you and your team. Reach out to me using any medium hereunder;
+#### 🤝🏻  &nbsp; I would love to build the future with you and your team. Reach out to me using any medium hereunder;
 <br>
 
 <p align="center">
