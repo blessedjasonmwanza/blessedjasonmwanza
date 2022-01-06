@@ -13,7 +13,7 @@
 - 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby, Ruby on Rails, JavaScript, and React)``` while aspiring to learn ```Go``` programming to its core.
 - 👯 I am curiously looking forward to working with teams and building; Business management systems, Automation tools, web applications, and viable software solutions.
 - 💬 Ask me about anything; I am happy to help and would love to learn from you as well.
-- 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://AlomoSystem.com/demo) and Just deployed another one recently; [Check out **BraveLender**](https://bravelender.com).
+- 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [ demo experience here](https://AlomoSystem.com/demo), for **AlomoSystem**. I also recently deployed another one; [Check out **BraveLender Software**](https://bravelender.com).
 - I am currently rebuilding [AfriLending](https://afrilending.com) - A Peer to Peer lending technolog, using ```ReactJS``` _(Soon to launch an improved ReactJS verson to replace the current existing MVP UI)_
 
 - > Would you like us to work together or with your team? Feel free, you can read on or reach out to me. I am open to advice and learning from you.
