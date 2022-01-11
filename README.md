@@ -8,7 +8,7 @@
 
 <h2> 👨🏻‍💻 &nbsp; About me:</h2> 
 
-- 🔭 I am currently a full-time student at Microverse Inc. and a strong code advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻.
+- 🔭 I am currently a full-time student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j). and a strong code advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻.
 - 🔭 I have agile, practical, and ```4+ years``` of professional programming in building ```viable products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
 - 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby, Ruby on Rails, JavaScript, and React)``` while aspiring to learn ```Go``` programming to its core.
 - 👯 I am curiously looking forward to working with teams and building; Business management systems, Automation tools, web applications, and viable software solutions.
