@@ -44,13 +44,20 @@
 <br>
 <br>
 
-<h2 align="center"> 📈  &nbsp; How about you take a look at my GitHub Stats Summery 😍 </h2>
+<h2 align="center"> 📈  &nbsp; How about you take a look at my GitHub Stats Summery 😍 
+  <a title="Total time coded since Nov 8 2021"
+     href="https://wakatime.com/@864184a7-6c2d-4518-bd00-febaed795ec4"><img src="https://wakatime.com/badge/user/864184a7-6c2d-4518-bd00-febaed795ec4.svg" alt="Total time coded since Nov 8 2021" /></a>
+</h2>
+
 <hr>
 <p align="center"><b>Visitor's Count from Oct 10, 2021</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bblessedjasonmwanza%7D/count.svg" alt="visitor badge"/></p>
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessedjasonmwanza&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Blessed Jason Mwanza" />
+</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=blessedjasonmwanza&layout=compact&theme=chartreuse-dark&hide_border=true&custom_title=Weekly%20wakatime%20stats">
 </p>
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=blessedjasonmwanza&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
