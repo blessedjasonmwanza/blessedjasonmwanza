@@ -132,7 +132,8 @@ const Books = [
 
 - [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandreamsl.com/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/);
 
-- [Introducing Progate To Cavendish University Zambia — The Awesome Experience />](https://medium.com/progate/introducing-progate-to-cavendish-university-zambia-the-awesome-experience-30707f999669)
+ <h3  align="center"> My Articles</h3>
+- [Introducing Progate To Cavendish University Zambia — The Awesome Experience />](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
 
 <hr>
 
