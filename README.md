@@ -130,10 +130,11 @@ const Books = [
 
 - [FinTech Startup Spotlight: Alomo System](https://bongohive.co.zm/startup-spotlight-alomo-system/)
 
-- [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandreamsl.com/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/);
+- [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandreamsl.com/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/)
 
  <h3  align="center"> My Articles</h3>
-- [Introducing Progate To Cavendish University Zambia — The Awesome Experience />](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
+ 
+- [Introducing Progate To Cavendish University Zambia — The Awesome Experience /> ](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
 
 <hr>
 
