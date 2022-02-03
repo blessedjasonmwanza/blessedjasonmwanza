@@ -57,8 +57,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessedjasonmwanza&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Blessed Jason Mwanza" />
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=blessedjasonmwanza&layout=compact&theme=chartreuse-dark&hide_border=true&custom_title=Weekly%20wakatime%20stats">
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=blessedjasonmwanza&layout=compact&theme=chartreuse-dark&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=blessedjasonmwanza&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
 </p> 
