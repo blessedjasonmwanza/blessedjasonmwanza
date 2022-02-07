@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="wave.gif" width="40px">, I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">Passion-driven & practically oriented Full-stack Cloud and Web Applications developer, with a keen enthusiam for learning new techonologies and building innnovative technology solutions.  I enjoy building; business & cloud-based systems, Payments platforms, API integrations, CRM software systems and Automation tools. I love collaborating with diverse teams to solve; community, business, and real global problems using lines of code.🤓 </p>
+> ### <p align="center" width="150px">Passion-driven & practically oriented Full-stack Cloud and Web Applications developer, with a keen enthusiam for learning new techonologies and creating innnovative technology solutions.  I enjoy building; business & cloud-based systems, Payments platforms, API integrations, CRM software systems and Automation tools. In love with the experience that comes out of working with diverse and motivated teams.🤓 </p>
 
 
 
