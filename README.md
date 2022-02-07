@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="wave.gif" width="40px">, I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">Passion-driven & practically oriented Full-stack (Front-End & back-End), Cloud and Web Applications developer, with a keen enthusiam for learning new techonologies and acquiring knowledge.  I enjoy building; business & cloud-based systems, Payments platforms, API integrations, CRM software systems and Automation tools. I love collaborating with diverse teams to solve; community, business, and real global problems using lines of code.🤓 </p>
+> ### <p align="center" width="150px">Passion-driven & practically oriented Full-stack Cloud and Web Applications developer, with a keen enthusiam for learning new techonologies and acquiring knowledge.  I enjoy building; business & cloud-based systems, Payments platforms, API integrations, CRM software systems and Automation tools. I love collaborating with diverse teams to solve; community, business, and real global problems using lines of code.🤓 </p>
 
 
 
@@ -27,6 +27,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![ReactJavaScript](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-563D7C?style=flat&logo=redux)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=Jquery)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite&logoColor=02569B)&nbsp;
@@ -41,6 +42,7 @@
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![WordPress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=563D7C)&nbsp;
+![Lunix](https://img.shields.io/badge/-linux-FF9800?style=flat&logo=linux&logoColor=FFFFFF)&nbsp;
 <br>
 <br>
 
@@ -148,6 +150,7 @@ const Books = [
 
 <p align="center">
 <a href="https://www.linkedin.com/in/blessedjasonmwanza/"><img src="https://img.shields.io/badge/blessedjasonmwanza-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+ <a href="https://angel.co/u/blessedjasonmwanza"><img src="https://img.shields.io/badge/blessedjasonmwanza-c3c3c3?style=for-the-badge&logo=Angellist&logoColor=black"/></a>
 <a href="mailto:mwanzabj@gmail.com"><img src="https://img.shields.io/badge/-mwanzabj@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://medium.com/@mwanzabj"><img src="https://img.shields.io/badge/-@mwanzabj-3db399?style=for-the-badge&logo=medium&logoColor=white"/></a>
