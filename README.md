@@ -140,7 +140,7 @@ const Books = [
 <hr>
 
 
-> <h3 align="center">Do you love taking intuitive approaches to solving problems? Connect with me, let us work together...</h3>
+> <h3 align="center">Do you love taking intuitive approaches to solving problems? Please, connect with me, we can work together...</h3>
 
 
 <hr>
