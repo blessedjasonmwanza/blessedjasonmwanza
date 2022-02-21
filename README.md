@@ -2,25 +2,25 @@
 
 <h1 align="center">Hi <img src="wave.gif" width="40px">, I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">Passion-driven & practically oriented Full-stack Cloud and Web Applications developer, with a keen enthusiam for learning new techonologies and creating innnovative technology solutions.  I enjoy building; business & cloud-based systems, Payments platforms, API integrations, CRM software systems and Automation tools. mostly in love with the experience that comes out of working with diverse and motivated teams.🤓 </p>
+> ### <p align="center" width="150px">Passion-driven & practically oriented Full-stack Cloud and Web Applications developer. I looove building stuff that just works 😃. Check out [AfriLending platform](https://afrilending.com) I recently deployed and built with ```ReactJS``` and ```PHP``` + ```SQL``` 🤭 . innovations and solutions I enjoy building;   Business & cloud-based systems, Payment platforms, API integrations, CRM software systems and Automation tools. mostly in love with the experience that comes out of working with diverse and motivated teams.🤓 Read on please 🤭 </p>
 
 
 
 <h2> 👨🏻‍💻 &nbsp; About me:</h2> 
 
 - 🔭 I am currently a full-time student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j). and a strong code advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻.
-- 🔭 I have agile, practical, and ```4+ years``` of professional programming in building ```viable products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
-- 🌱 I am currently learning Full-Stack Web Development ```(HTML, CSS, Ruby, Ruby on Rails, JavaScript, and React)``` while aspiring to learn ```Go``` programming to its core.
-- 👯 I am curiously looking forward to working with teams and building; Business management systems, Automation tools, web applications, and viable software solutions.
+- 🔭 I have agile, practical, and ```4+ years``` of professional programming in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
+- 🌱 I am currently learning Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, React and HTML, CSS, )``` while aspiring to learn ```Go``` programming to its core.
+- 👯 Bealive me 😊, I am curiously looking forward to working with teams right now. feel free to reach out 🤝 👨‍💻
 - 💬 Ask me about anything; I am happy to help and would love to learn from you as well.
-- 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [ demo experience here](https://AlomoSystem.com/demo), for **AlomoSystem**. I also recently deployed another one; [Check out **BraveLender Software**](https://bravelender.com).
-- I am currently rebuilding [AfriLending](https://afrilending.com) - A Peer to Peer lending technolog, using ```ReactJS``` _(Soon to launch an improved ReactJS verson to replace the current existing MVP UI)_
+- 📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [ demo experience here](https://AlomoSystem.com/demo), for **AlomoSystem**. I recently deployed accounting cloud solution I built from scratch; [Check out **BraveLender Software**](https://bravelender.com).
+- And hey, why not mention it again 😃 - [Afrilending Platform](https://afrilending.com)  (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```) 
 
-- > Would you like us to work together or with your team? Feel free, you can read on or reach out to me. I am open to advice and learning from you.
+- > Would you like us to work together or with your team? Feel free, you can read on, or reach out to me. I am open to advice and learning from you.
 
 <br>
 
-> ### 🛠 &nbsp;Here are Tech Stacks my brain plays with on a daily basis. 🤓 I Make magic, and solve complex problems using the following technologies::
+> ### 🛠 &nbsp;Here are Tech Stacks my brain plays with on a daily basis. 🤓 I Make magic, and solve complex problems using the these technologies;
 
 <br>
 
@@ -145,7 +145,7 @@ const Books = [
 
 <hr>
 
-#### 🤝🏻  &nbsp; I would love to build the future with you and your team. Reach out to me using any medium hereunder;
+#### 🤝🏻  &nbsp; I would love to build the future with you and your team. Reach out to me  already 🚀 - below are my contact details ;
 <br>
 
 <p align="center">
