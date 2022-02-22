@@ -2,7 +2,12 @@
 
 <h1 align="center">Hi <img src="wave.gif" width="40px">, I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">Passion-driven & practically oriented Full-stack Cloud and Web Applications developer. I looove building stuff that just works 😃. Check out [AfriLending platform](https://afrilending.com) I recently deployed and built with ```ReactJS``` and ```PHP``` + ```SQL``` 🤭 . innovations and solutions I enjoy building;   Business & cloud-based systems, Payment platforms, API integrations, CRM software systems and Automation tools. mostly in love with the experience that comes out of working with diverse and motivated teams.🤓 Read on please 🤭 </p>
+> ### <p align="center" width="150px">Passion-driven & practically oriented Full-stack Cloud and Web Applications developer. I looove building stuff that just works 😃. Check out [AfriLending platform](https://afrilending.com) - I recently deployed and built with ```ReactJS```, ```PHP``` + ```SQL``` 🤭 . <br> <br>Innovations and solutions I enjoy building;
+> <center> CRM software systems and Automation tools, Business & cloud-based systems, Payment platforms, API integrations</center>
+ </p>
+
+  
+```Mostly in love with the experience that comes out of working with diverse and motivated teams.🤓 Read on please 🤭```
 
 
 
@@ -133,7 +138,7 @@ const Books = [
 
 - [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandreamsl.com/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/)
 
- <h3  align="center"> My Articles</h3>
+ <h3  align="center"> Articles I have written</h3>
  
 - [Introducing Progate To Cavendish University Zambia — The Awesome Experience /> ](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
 
