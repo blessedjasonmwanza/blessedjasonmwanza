@@ -13,7 +13,7 @@
 
 <h2> 👨🏻‍💻 &nbsp; About me:</h2> 
 
-- 🔭 I am currently a full-time student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j). and a strong code advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻.
+- 🔭 I am currently a student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j). and a strong code advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻.
 - 🔭 I have agile, practical, and ```4+ years``` of professional programming in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
 - 🌱 I am currently learning Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, React and HTML, CSS, )``` while aspiring to learn ```Go``` programming to its core.
 - 👯 Bealive me 😊, I am curiously looking forward to working with teams right now. feel free to reach out 🤝 👨‍💻
