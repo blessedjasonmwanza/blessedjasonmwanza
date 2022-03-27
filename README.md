@@ -5,15 +5,15 @@
 > ### <p align="center" width="150px"> Motivated, Passion-driven, & practically oriented Full-Stack Cloud and Web Applications Software Developer. </p>
 
   
-``` I am a simple guy who loves God, Code, and the experience that comes with working alongside diverse and motivated teams.🤓 Read on please 🤭```
+``` I am a simple guy who loves God, Code, and the experience that comes with working alongside diverse, motivated, & purpose-driven teams.🤓 Read on please 🤭```
 
 
 
 <h2> 👨🏻‍💻 &nbsp; About me: </h2> 
-<img src="https://img.shields.io/badge/Blessed%20Jason%20Mwanza-is%20Available for a Remote Work-greenyellow" />
+<img src="https://img.shields.io/badge/Blessed%20Jason%20Mwanza-is%20Available for Remote Work-greenyellow" />
 
 
-- See [my portfolio](https://blessedjasonmwanza.github.io/my-portfolio-microverse/) for personal Projects I have worked on and built.
+- See [my portfolio](https://blessedjasonmwanza.github.io/my-portfolio-microverse/) for personal projects I have worked on and built.
 - 🔭 Currently a student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) learning Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, React, HTML & CSS, )```
 - 🔭 I have demostrated; agile, practical ```4+ years``` of professional programming experience in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
 - 🌱 A strong code & community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and Co-Lead at [Meta Developer Circles - Lusaka](https://web.facebook.com/groups/DevCLusaka).
@@ -179,4 +179,4 @@ const Books = [
     },
 ]
 ```
-     ---
+     --- Let's keep Innovating. <HappyCoding/>
