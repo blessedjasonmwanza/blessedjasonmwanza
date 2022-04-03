@@ -5,7 +5,7 @@
 > ### <p align="center" width="150px"> Motivated, Passion-driven, & practically oriented Full-Stack Cloud and Web Applications Software Developer. </p>
 
   
-``` I am a simple guy who loves God, Code, and the experience that comes with working alongside diverse, motivated, & purpose-driven teams.🤓 Read on please 🤭```
+``` I am a simple guy who loves God, code, and the experience that comes with working alongside diverse, motivated, & purpose-driven teams.🤓 Read on please 🤭```
 
 
 
@@ -14,13 +14,13 @@
 
 
 - See [my portfolio](https://blessedjasonmwanza.github.io/my-portfolio-microverse/) for personal projects I have worked on and built.
-- 🔭 Currently a student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) learning Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, React, HTML & CSS, )```
+- 🔭 Currently a student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j), learning Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
 - 🔭 I have demostrated; agile, practical ```4+ years``` of professional programming experience in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
-- 🌱 A strong code & community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and Co-Lead at [Meta Developer Circles - Lusaka](https://web.facebook.com/groups/DevCLusaka).
+- 🌱 A strong code community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and Co-Lead at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
 -  📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built;
-  > - [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [ demo experience here](https://AlomoSystem.com/demo), for **AlomoSystem**. 
-  > - I recently deployed another fiancial accounting cloud solution I built from scratch - [Check out **BraveLender Software**](https://bravelender.com).
-  > -😃 And hey, why not mention  [Afrilending Platform](https://afrilending.com)  - A peer-to-peer Financial wep application solution connecting thousands of people to nearby lenders (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```) 
+  > - I recently deployed an advanced fiancial accounting cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
+  > -  A peer-to-peer **FinTech application** solution connecting thousands of people to nearby lenders (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
+  > - During High-school, I developed [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [demo experience here](https://AlomoSystem.com/demo), for **AlomoSystem**. 
 
 - 👯  ```Would you like us to work together or with your team? Please, feel free to reach out to me. I am open to advice and learning from you.```
 
