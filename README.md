@@ -70,42 +70,49 @@
      href="https://wakatime.com/@864184a7-6c2d-4518-bd00-febaed795ec4"><img src="https://wakatime.com/badge/user/864184a7-6c2d-4518-bd00-febaed795ec4.svg" alt="Total time coded since Nov 8 2021" /></a>
 </h2>
 
-<p align="center"><b>Visitor's Count from Oct 10, 2021</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7Bblessedjasonmwanza%7D/count.svg" alt="visitor badge"/></p>
+<details align="center">
+  <summary>
+    📈 Click here to view stats
+  </summary>
+  <p align="center"><b>Visitor's Count from Oct 10, 2021</b></p>
+  <p align="center"><img src="https://profile-counter.glitch.me/%7Bblessedjasonmwanza%7D/count.svg" alt="visitor badge"/></p>
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessedjasonmwanza&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Blessed Jason Mwanza" />
-</p>
+  <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessedjasonmwanza&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Blessed Jason Mwanza" />
+  </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=blessedjasonmwanza&layout=compact&theme=chartreuse-dark&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=blessedjasonmwanza&layout=compact&theme=chartreuse-dark&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=blessedjasonmwanza&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
-</p> 
+  <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=blessedjasonmwanza&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
+  </p> 
 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=blessedjasonmwanza&theme=chartreuse-dark"></p>
-<br>
-<p align="center">
+  <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=blessedjasonmwanza&theme=chartreuse-dark"></p>
   <br>
-    <a href="https://blessedjasonmwanza.github.io/my-portfolio-microverse/"> View Portfolio<a>
-</p>
+  
+</details>
+<details align="center">
+  <summary>
+     📰  &nbsp; See Written & Featured articles
+  </summary>
+  <h3  align="center"> Featured Articles </h3>
+  
+  - [FinTech Startup Spotlight: Alomo System](https://bongohive.co.zm/startup-spotlight-alomo-system/)
 
-<h2 align="center"> 📰  &nbsp; And oh - almost forgot 😃. Here are some articles I have been featured in 📖 </h2>
-<hr>
-
-- [FinTech Startup Spotlight: Alomo System](https://bongohive.co.zm/startup-spotlight-alomo-system/)
-
-- [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandreamsl.com/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/)
-
- <h3  align="center"> Articles I have written</h3>
+  - [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandreamsl.com/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/)
+  
+  
+   <h3  align="center"> Articles I have written</h3>
 
       
-- [Programming in High School](https://dev.to/mwanzabj/programming-in-high-school-3iji)
-- [Introducing Progate To Cavendish University Zambia — The Awesome Experience /> ](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
+  - [Programming in High School](https://dev.to/mwanzabj/programming-in-high-school-3iji)
+  - [Introducing Progate To Cavendish University Zambia — The Awesome Experience /> ](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
+  
+</details>
 
 <hr>
 
 
-> <h3 align="center">Do you love taking intuitive approaches to solving problems? Please, connect with me, we can work together...</h3>
+> <h3 align="center">Do you love taking intuitive approaches to solving problems? Please, connect with me, I'm the kind of person you'd want to work with...</h3>
 
 
 <hr>
@@ -130,7 +137,7 @@
  
 <details>
   <summary>
-    📚 Love reading, Click here to view my recent reads
+    📚 Love reading, Click here to view my recent reads  📖
   </summary>
 
 
