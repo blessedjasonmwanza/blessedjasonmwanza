@@ -5,7 +5,7 @@
 > ### <p align="center" width="150px"> Motivated, Passion-driven, & practically oriented Full-Stack Cloud and Web Applications Software Developer. </p>
 
   
-``` I am a simple guy who loves God, code, and the experience that comes with working alongside diverse, motivated, & purpose-driven teams.🤓 Read on please 🤭```
+```🤓 I am a simple guy who loves God, code, learning & applying my knowledge. I happen to enjoy the experience that comes with working alongside diverse, motivated, & purpose-driven teams. Read on please 🤭```
 
 
 
@@ -198,4 +198,4 @@
   
 
 
-     --- Let's keep Innovating, and remember to check out some of my projects. <HappyCoding/>
+     --- Let's keep Innovating, and remember to check out some of my pinned projects. <HappyCoding/>
