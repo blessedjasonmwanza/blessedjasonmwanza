@@ -15,14 +15,15 @@
 
 - See [my portfolio](https://blessedjasonmwanza.github.io/my-portfolio-microverse/) for personal projects I have worked on and built.
 - 🔭 Currently a student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j), learning Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
-- 🔭 I have demostrated; agile, practical ```4+ years``` of professional programming experience in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
+- 🔭 Demostrated - agile, practical ```4+ years``` of professional programming experience in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
 - 🌱 A strong code community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and Co-Lead at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
 -  📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built;
-  > - I recently deployed an advanced financial accounting cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
-  > -  A peer-to-peer **FinTech application** solution connecting thousands of people to nearby lenders (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
-  > - During High-school, I developed [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [demo experience here](https://AlomoSystem.com/demo) - **AlomoSystem**. 
+  > - A full financial accounting cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
+  > -  An entire peer-to-peer **FinTech application** solution connecting thousands of people in Africa to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
 
-- 👯  ```Would you like us to work together or with your team? Please, feel free to reach out to me. I am open to advice and learning from you.```
+  > - During High-school, I developed [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [demo experience here](https://AlomoSystem.com/demo) - **AlomoSystem** - [See Video interview by Facebook](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
+
+- 👯  ```Would you like us to work together or with your team? Please, feel free to reach out to me. I am a lifelong leaner and I am open to advice.```
 
 <br>
 
@@ -126,59 +127,68 @@
 
      
 <hr>
-<h3> 📚 If you happen to be interested, here is a little sneak peek of 'some' of the books I have read...</h3>
-  
+ 
+<details>
+  <summary>
+    📚 Love reading, Click here to view my recent reads
+  </summary>
+
 
 ```javascript
-const Books = [
-    {
-      title: 'The Magic Ladder to Success',
-      Auther: 'Napoleon Hill'
-    },
-    {
-      title: 'As a Man Thinketh',
-      Auther: 'James Allen'
-    },
-    {
-      title: 'Zero To One',
-      Auther: 'Peter Thiel'
-    },
-    {
-      title: 'The Richest Man in Babylon',
-      Auther: 'George S. Clason'
-    },
-    {
-      title: 'The One Minute Manager',
-      Auther: ['Ken Blanchard', 'Dr Spencer Johnson']
-    },
-    {
-      title: 'What the CEO Wants you to Know',
-      Auther: 'Ram Charan'
-    },
-    {
-      title: 'Who Moved My Cheese',
-      Auther: 'Dr Spencer Johnson'
-    },
-    {
-      title: 'The Game of Life and How to Play it',
-      Auther: 'Forence Scovel Shinn'
-    },
-    {
-      title: 'Just Be Glad',
-      Auther: 'Christian D. Larson'
-    },
-    {
-      title: 'It Works',
-      Auther: 'RHJ'
-    },
-    {
-      title: 'Outwitting the Devil',
-      Auther: 'Napoleon Hill'
-    },
-    {
-      title: 'Success The Best of Napoleon Hill',
-      Auther: 'Napoleon Hill'
-    },
-]
-```
-     --- Let's keep Innovating. <HappyCoding/>
+  const Books = [
+      {
+        title: 'The Magic Ladder to Success',
+        Auther: 'Napoleon Hill'
+      },
+      {
+        title: 'As a Man Thinketh',
+        Auther: 'James Allen'
+      },
+      {
+        title: 'Zero To One',
+        Auther: 'Peter Thiel'
+      },
+      {
+        title: 'The Richest Man in Babylon',
+        Auther: 'George S. Clason'
+      },
+      {
+        title: 'The One Minute Manager',
+        Auther: ['Ken Blanchard', 'Dr Spencer Johnson']
+      },
+      {
+        title: 'What the CEO Wants you to Know',
+        Auther: 'Ram Charan'
+      },
+      {
+        title: 'Who Moved My Cheese',
+        Auther: 'Dr Spencer Johnson'
+      },
+      {
+        title: 'The Game of Life and How to Play it',
+        Auther: 'Forence Scovel Shinn'
+      },
+      {
+        title: 'Just Be Glad',
+        Auther: 'Christian D. Larson'
+      },
+      {
+        title: 'It Works',
+        Auther: 'RHJ'
+      },
+      {
+        title: 'Outwitting the Devil',
+        Auther: 'Napoleon Hill'
+      },
+      {
+        title: 'Success The Best of Napoleon Hill',
+        Auther: 'Napoleon Hill'
+      },
+    ]
+  ```
+ 
+</details>
+  
+
+
+     --- Let's keep Innovating, and remember to check out some of my projects. <HappyCoding/>
