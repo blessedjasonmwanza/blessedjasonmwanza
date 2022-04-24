@@ -137,7 +137,7 @@
  
 <details>
   <summary>
-    📚 Love reading, Click here to view my recent reads  📖
+    📚 Love reading? Click here to view my recent reads  📖
   </summary>
 
 
