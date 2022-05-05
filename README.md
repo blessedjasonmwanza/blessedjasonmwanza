@@ -96,6 +96,8 @@
   </summary>
   <h3  align="center"> Featured Articles </h3>
   
+  - [AfriLending, The Future Of Lending Money in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/)
+  
   - [FinTech Startup Spotlight: Alomo System](https://bongohive.co.zm/startup-spotlight-alomo-system/)
 
   - [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandreamsl.com/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/)
