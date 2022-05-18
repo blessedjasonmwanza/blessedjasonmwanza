@@ -77,14 +77,7 @@
   <p align="center"><b>Visitor's Count from Oct 10, 2021</b></p>
   <p align="center"><img src="https://profile-counter.glitch.me/%7Bblessedjasonmwanza%7D/count.svg" alt="visitor badge"/></p>
 
-  <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blessedjasonmwanza&hide=less,scss,hack&show_icons=true&theme=chartreuse-dark&layout=compact&langs_count=8" alt="Blessed Jason Mwanza" />
-  </p>
-
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=blessedjasonmwanza&layout=compact&theme=chartreuse-dark&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
-
-  <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=blessedjasonmwanza&count_private=true&count_public=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true">
-  </p> 
 
   <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=blessedjasonmwanza&theme=chartreuse-dark"></p>
   <br>
@@ -192,6 +185,10 @@
       {
         title: 'Success The Best of Napoleon Hill',
         Auther: 'Napoleon Hill'
+      },
+      {
+        title: 'Elon Musk: Success Secrets',
+        Auther: 'George Ilian'
       },
     ]
   ```
