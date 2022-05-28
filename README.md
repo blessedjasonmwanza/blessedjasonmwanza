@@ -16,12 +16,12 @@
 - See [my portfolio](https://blessedjasonmwanza.github.io/my-portfolio-microverse/) for personal projects I have worked on and built.
 - 🔭 Currently a student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j), learning Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
 - 🔭 Demostrated - agile, practical ```4+ years``` of professional programming experience in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
-- 🌱 A strong code community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and Co-Lead at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
+- 🌱 A strong code community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and **Community Lead** at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
 -  📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built;
   > - A full financial accounting cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
-  > -  An entire peer-to-peer **FinTech application** solution connecting thousands of people in Africa to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
+  > -  An entire peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
 
-  > - During High-school, I developed [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [demo experience here](https://AlomoSystem.com/demo) - **AlomoSystem** - [See Video interview by Facebook](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
+  > - During High-school, I developed [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [demo experience here](https://AlomoSystem.com) - **AlomoSystem** - [See Video interview by Facebook](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
 
 - 👯  ```Would you like us to work together or with your team? Please, feel free to reach out to me. I am a lifelong leaner and I am open to advice.```
 
