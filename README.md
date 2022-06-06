@@ -1,6 +1,6 @@
 <p align="center"><img src="languages-header.png"></p>
 
-<h1 align="center">Hi <img src="wave.gif" width="40px">, I am Blessed Jason Mwanza </h1>
+<h1 align="center">Hi :wave:  , I am Blessed Jason Mwanza </h1>
 
 > ### <p align="center" width="150px"> Motivated, Passion-driven, & practically oriented Full-Stack Cloud and Web Applications Software Developer. </p>
 
@@ -27,12 +27,13 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**_Frequently used Tech Stacks & Tools Preference_** 🤓 
+:bar_chart: &nbsp;**_Frequently used Tech Stacks & Tools Preference_** 🤓 
 
 
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">&nbsp;
 <img src = "https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Graphql-%cc6699?style=flat&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
