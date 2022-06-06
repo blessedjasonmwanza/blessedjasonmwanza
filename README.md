@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi :wave:  , I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px"> Motivated, Passion-driven, & practically oriented Full-Stack Cloud and Web Applications Software Developer. </p>
+> ### <p align="center" width="150px"> Motivated Learner, Passion-driven, & practically oriented Full-Stack Software Developer. </p>
 
   
-```🤓 I am a simple guy who loves God, code, learning & applying my knowledge. I happen to enjoy the experience that comes with working alongside diverse, motivated, & purpose-driven teams. Read on please 🤭```
+```🤓 I am a simple guy who loves God, code, learning, and applicaple knowledge. I also happen to enjoy the experience that comes with working alongside diverse, motivated, & purpose-driven teams. Read on please 🤭```
 
 
 
