@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Blessed%20Jason%20Mwanza-is%20Available for Remote Work-greenyellow" />
 
 
-- See [my portfolio](https://blessedjasonmwanza.github.io/my-portfolio-microverse/) for personal projects I have worked on and built.
+- See [my portfolio](http://blessedjasonmwanza.me/) for personal projects I have worked on and built.
 - 🔭 Currently a student at [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j), learning Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
 - 🔭 Demostrated - agile, practical ```4+ years``` of professional programming experience in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
 - 🌱 A strong code community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and **Community Lead** at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
