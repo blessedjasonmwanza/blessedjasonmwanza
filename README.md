@@ -198,6 +198,6 @@
 
      --- Let's keep Innovating, and remember to check out some of my pinned projects. <HappyCoding/>
 
-### Activity
+### Private Code Sessions Activity
 
 <a href="https://wakatime.com/@blessedjasonmwanza" align="center" style="margin: 0 auto;"><img src="https://wakatime.com/share/@blessedjasonmwanza/da3f2a1c-5306-4762-a8b8-7b2ecf273a02.png" /></a>
