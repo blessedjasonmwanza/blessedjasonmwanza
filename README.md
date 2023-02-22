@@ -81,7 +81,6 @@
 
   <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=blessedjasonmwanza&theme=chartreuse-dark"></p>
   <br>
-  
 </details>
 <details align="center">
   <summary>
@@ -198,3 +197,7 @@
 
 
      --- Let's keep Innovating, and remember to check out some of my pinned projects. <HappyCoding/>
+
+### Activity
+
+<a href="https://wakatime.com" align="center" style="margin: 0 auto;"><img src="https://wakatime.com/share/@blessedjasonmwanza/da3f2a1c-5306-4762-a8b8-7b2ecf273a02.png" /></a>
