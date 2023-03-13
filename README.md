@@ -12,7 +12,7 @@
 <h2> 👨🏻‍💻 &nbsp; About me: </h2> 
 
 
-- See [my portfolio](http://blessedjasonmwanza.me/) for personal projects I have worked on and built.
+- See [my portfolio](http://blessedjasonmwanza.me/) and contact details below for more information on what I have worked on and built.
 - 🔭 Previous at [Stickee](https://stickee.co.uk) and graduate student from [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) -  studied Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
 - 🔭 Demostrated - agile, practical ```4+ years``` of professional programming experience in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
 - 🌱 A strong code community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and **Community Lead** at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
@@ -188,6 +188,10 @@
       {
         title: 'Elon Musk: Success Secrets',
         Auther: 'George Ilian'
+      },
+      {
+        title: 'Capitalist Nigger',
+        Auther: 'Chika Onyeani'
       },
     ]
   ```
