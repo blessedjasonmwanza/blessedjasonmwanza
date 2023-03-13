@@ -139,15 +139,15 @@
   const Books = [
       {
         title: 'The Magic Ladder to Success',
-        Auther: 'Napoleon Hill'
+        Author: 'Napoleon Hill'
       },
       {
         title: 'As a Man Thinketh',
-        Auther: 'James Allen'
+        Author: 'James Allen'
       },
       {
         title: 'Zero To One',
-        Auther: 'Peter Thiel'
+        Author: 'Peter Thiel'
       },
       {
         title: 'The Richest Man in Babylon',
@@ -155,15 +155,15 @@
       },
       {
         title: 'The One Minute Manager',
-        Auther: ['Ken Blanchard', 'Dr Spencer Johnson']
+        Author: ['Ken Blanchard', 'Dr Spencer Johnson']
       },
       {
         title: 'What the CEO Wants you to Know',
-        Auther: 'Ram Charan'
+        Author: 'Ram Charan'
       },
       {
         title: 'Who Moved My Cheese',
-        Auther: 'Dr Spencer Johnson'
+        Author: 'Dr Spencer Johnson'
       },
       {
         title: 'The Game of Life and How to Play it',
@@ -171,27 +171,27 @@
       },
       {
         title: 'Just Be Glad',
-        Auther: 'Christian D. Larson'
+        Author: 'Christian D. Larson'
       },
       {
         title: 'It Works',
-        Auther: 'RHJ'
+        Author: 'RHJ'
       },
       {
         title: 'Outwitting the Devil',
-        Auther: 'Napoleon Hill'
+        Author: 'Napoleon Hill'
       },
       {
         title: 'Success The Best of Napoleon Hill',
-        Auther: 'Napoleon Hill'
+        Author: 'Napoleon Hill'
       },
       {
         title: 'Elon Musk: Success Secrets',
-        Auther: 'George Ilian'
+        Author: 'George Ilian'
       },
       {
         title: 'Capitalist Nigger',
-        Auther: 'Chika Onyeani'
+        Author: 'Chika Onyeani'
       },
     ]
   ```
