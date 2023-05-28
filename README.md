@@ -196,7 +196,7 @@
         Author: 'Chika Onyeani'
       },
       {
-        title: 'How to Sell and Market Like a Prostitute'
+        title: 'How to Sell and Market Like a Prostitute',
         Author: 'Edwin Ngwane'
       }
     ]
