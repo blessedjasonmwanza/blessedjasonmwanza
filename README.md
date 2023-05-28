@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi :wave:  , I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px"> Motivated Learner, Passion-driven, & practically oriented Full-Stack Software Developer. </p>
+> ### <p align="center" width="150px"> Motivated, Passion-driven, and practically oriented Web & Software Developer. </p>
 
   
 ```🤓 I am a simple guy who loves God, code, learning, and applicaple knowledge. I also happen to enjoy the experience that comes with working alongside diverse, motivated, & purpose-driven teams. Read on please 🤭```
@@ -13,14 +13,14 @@
 
 
 - See [my portfolio](http://blessedjasonmwanza.me/) and contact details below for more information on what I have worked on and built.
-- 🔭 Previous at [Stickee](https://stickee.co.uk) and graduate student from [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) -  studied Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
-- 🔭 Demostrated - agile, practical ```4+ years``` of professional programming experience in building ```viable app products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Jquery, HTML & CSS)```.
+- 🔭 Previously at [Stickee](https://stickee.co.uk) and graduate student from [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) -  studied Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
+- 🔭 Demostrated - agile, practical ```5+ years``` of professional programming experience in building ```viable software products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Laravel, Jquery, HTML & CSS)```.
 - 🌱 A strong code community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and **Community Lead** at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
 -  📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built;
-  > - A full financial accounting cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
-  > -  An entire peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
+  > - A robust financial accounting abd business management workspace cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
+  > -  A peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
 
-  > - During High-school, I developed [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/). You can try a [demo experience here](https://AlomoSystem.com) - **AlomoSystem** - [See Video interview by Facebook](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
+  > - During High-school, I developed [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/).  **AlomoSystem** - [See Video interview by Facebook](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
 
 - 👯  ```Would you like us to work together or with your team? Please, feel free to reach out to me. I am a lifelong leaner and I am open to advice.```
 
@@ -70,10 +70,10 @@
      href="https://wakatime.com/@864184a7-6c2d-4518-bd00-febaed795ec4"><img src="https://wakatime.com/badge/user/864184a7-6c2d-4518-bd00-febaed795ec4.svg" alt="Total time coded since Nov 8 2021" /></a>
 </h2>
 
-<details align="center">
-  <summary>
+<!-- <details align="center"> -->
+<!--   <summary>
     📈 Click here to view stats
-  </summary>
+  </summary> -->
   <p align="center"><b>Visitor's Count from Oct 10, 2021</b></p>
   <p align="center"><img src="https://profile-counter.glitch.me/%7Bblessedjasonmwanza%7D/count.svg" alt="visitor badge"/></p>
 
@@ -81,12 +81,14 @@
 
   <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=blessedjasonmwanza&theme=chartreuse-dark"></p>
   <br>
-</details>
-<details align="center">
-  <summary>
+<!-- </details> -->
+<!-- <details align="center"> -->
+<!--   <summary>
      📰  &nbsp; See Written & Featured articles
-  </summary>
+  </summary> -->
   <h3  align="center"> Featured Articles </h3>
+  
+  - [Tech Mavericks: Revolutionizing the Digital Landscape](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a)
   
   - [AfriLending, The Future Of Lending Money in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/)
   
@@ -97,11 +99,11 @@
   
    <h3  align="center"> Articles I have written</h3>
 
-      
+  - [Avoid Jumping from one programming language to Another - Know Thy Craft](https://www.linkedin.com/pulse/avoid-jumping-from-one-programming-language-another-mwanza%3FtrackingId=CIBXmDV3yBVYmYBe5v0lXw%253D%253D/)
   - [Programming in High School](https://dev.to/mwanzabj/programming-in-high-school-3iji)
   - [Introducing Progate To Cavendish University Zambia — The Awesome Experience /> ](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
   
-</details>
+<!-- </details> -->
 
 <hr>
 
@@ -193,6 +195,10 @@
         title: 'Capitalist Nigger',
         Author: 'Chika Onyeani'
       },
+      {
+        title: 'How to Sell and Market Like a Prostitute'
+        Author: 'Edwin Ngwane'
+      }
     ]
   ```
  
