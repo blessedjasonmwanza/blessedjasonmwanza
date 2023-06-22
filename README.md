@@ -2,25 +2,38 @@
 
 <h1 align="center">Hi :wave:  , I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px"> Motivated, Passion-driven, and practically oriented Web & Software Developer. </p>
-
-  
-```🤓 I am a simple guy who loves God, code, learning, and applicaple knowledge. I also happen to enjoy the experience that comes with working alongside diverse, motivated, & purpose-driven teams. Read on please 🤭```
+> ### <p align="center" width="150px">Innovative Full-Stack Software Developer | Entrepreneur | Tech Enthusiast | Mentor </p>
 
 
+🚀 Transforming ideas into cutting-edge solutions | Expertise in PHP, Laravel, JavaScript, React, JQuery, and Ruby on Rails | Collaborator in agile environments
 
-<h2> 👨🏻‍💻 &nbsp; About me: </h2> 
+🌟 Recognized for [building startups](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/), [automating processes](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a), and integrating payment systems | [UNCDF-selected top 10 FinTech](https://www.uncdf.org/article/6136/ten-fintechs-join-the-sophomore-class-of-the-fintech4u-accelerator-programme-in-zambia) technology creator
+
+💡 Passionate about mentoring junior developers and empowering underserved communities | Founder of [CompoundCode NGO](https://facebook.com/compoundcode) and **Community Lead** at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
+
+✨ Microverse-certified remote Full-Stack Web Developer | Proficient in SQL, Ruby, Redux, Google Cloud, and more
+
+💼 Let's create the future together! Open to exciting opportunities that value innovation, teamwork, and making a positive impact.
+
+> 🌐 Portfolio: [https://blessedjasonmwanza.tech](https://blessedjasonmwanza.tech) | 
+📧 LinkedIn: [https://linkedin.com/in/blessedjasonmwanza](https://linkedin.com/in/blessedjasonmwanza)
 
 
-- See [my portfolio](http://blessedjasonmwanza.me/) and contact details below for more information on what I have worked on and built.
+
+
+<h2> 👨🏻‍💻 &nbsp; More about me: </h2> 
+
 - 🔭 Previously at [Stickee](https://stickee.co.uk) and graduate student from [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) -  studied Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
-- 🔭 Demostrated - agile, practical ```5+ years``` of professional programming experience in building ```viable software products```, and ```Startups``` using; ```(PHP, MYSQL, SQLite, JavaScript, ReactJS, Laravel, Jquery, HTML & CSS)```.
-- 🌱 A strong code community advocate/[evangelist](https://facebook.com/compoundCode) 👨🏻‍💻 and **Community Lead** at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
--  📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built;
-  > - A robust financial accounting abd business management workspace cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
-  > -  A peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
 
-  > - During High-school, I developed [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/).  **AlomoSystem** - [See Video interview by Facebook](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
+### Personal Projects
+
+📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built;
+
+  > - A robust financial accounting and business management workspace cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
+  > -  A peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
+>   -  **Mobile Money Payments API for Africa** - checkout [MoneyUnify](https://moneyunify.com)
+
+  > - During High-school, I Built **AlomoSystem**  [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/).  - [See Video interview by Facebook team](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
 
 - 👯  ```Would you like us to work together or with your team? Please, feel free to reach out to me. I am a lifelong leaner and I am open to advice.```
 
