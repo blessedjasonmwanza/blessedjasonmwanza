@@ -121,7 +121,7 @@
 <hr>
 
 
-> <h3 align="center">Do you love taking intuitive approaches to solving problems? Please, connect with me, I'm the kind of person you'd want to work with...</h3>
+> <h3 align="center">Do you love taking intuitive approaches to solving problems? Lets connect!...</h3>
 
 
 <hr>
