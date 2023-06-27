@@ -39,7 +39,7 @@
 
   > - During High-school, I Built **AlomoSystem**  [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/).  - [See Video interview by Facebook team](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
 
-- 👯  ```Would you like us to work together or with your team? Please, feel free to reach out to me. I am a lifelong leaner and I am open to advice.```
+- 👯  ```Would you prefer a collaborative approach, either with us or with your team? Please don't hesitate to contact me. I possess a strong commitment to continuous learning and I am receptive to receiving guidance and suggestions.```
 
 <br>
 
