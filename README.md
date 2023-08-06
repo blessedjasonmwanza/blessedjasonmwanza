@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi :wave:  , I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">Innovative Full-Stack Software Developer | Entrepreneur | Tech Enthusiast | Mentor </p>
+> ### <p align="center" width="150px">Simple guy | Innovative | Full-Stack Software Developer | Entrepreneur | Tech Enthusiast | Mentor | Fintech Lover </p>
 
 
-🚀 Transforming ideas into cutting-edge solutions | Expertise in PHP, Laravel, JavaScript, React, JQuery, and Ruby on Rails | Collaborator in agile environments
+🚀 Transforming ideas into cutting-edge solutions | Expertise in PHP, Laravel, JavaScript, React, JQuery, and Ruby on Rails | Collaborator in agile environments - (Currently Learning **Golang**)
 
 🌟 Recognized for [building startups](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/), [automating processes](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a), and integrating payment systems | [UNCDF-selected top 10 FinTech](https://www.uncdf.org/article/6136/ten-fintechs-join-the-sophomore-class-of-the-fintech4u-accelerator-programme-in-zambia) technology creator
 
@@ -31,12 +31,12 @@
 
 ### Personal Projects
 
-📄 So far, and in addition to private projects (_that might not show up here_ 🤓), I built;
+📄 Enough talk - let the code speak. 🤠 So far, and in addition to private projects (_that might not show up here_ 🤓), I build and run;
+
+  >   - **Mobile Money Payments API in Africa** - checkout [MoneyUnify](https://moneyunify.com) or go directly to [Documentation](https://github.com/blessedjasonmwanza/MoneyUnify)
 
   > - A robust financial accounting and business management workspace cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
   > -  A peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
->   -  **Mobile Money Payments API for Africa** - checkout [MoneyUnify](https://moneyunify.com)
-
   > - During High-school, I Built **AlomoSystem**  [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/).  - [See Video interview by Facebook team](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
 
 - 👯  ```Would you prefer a collaborative approach, either with you or with your team? Please don't hesitate to contact me. I possess a strong commitment to continuous learning and I am receptive to receiving guidance and suggestions.```
@@ -116,6 +116,7 @@
   
    <h3  align="center"> Articles I have written</h3>
 
+  - [Mobile Money Payments in Africa with MoneyUnify - A recommended Mobile Money API that supports MTN, Airtel, and other networks such as Zamtel](https://www.linkedin.com/pulse/mobile-money-payments-africa-moneyunify-recommended-mwanza)
   - [Avoid Jumping from one programming language to Another - Know Thy Craft](https://www.linkedin.com/pulse/avoid-jumping-from-one-programming-language-another-mwanza%3FtrackingId=CIBXmDV3yBVYmYBe5v0lXw%253D%253D/)
   - [Programming in High School](https://dev.to/mwanzabj/programming-in-high-school-3iji)
   - [Introducing Progate To Cavendish University Zambia — The Awesome Experience /> ](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
