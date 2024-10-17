@@ -115,7 +115,7 @@
   
   
    <h3  align="center"> Articles I have written</h3>
-
+  - [You’re NOT Dumb, You Just Lack the Prerequisites - Programming 💡](https://dev.to/mwanzabj/youre-not-dumb-you-just-lack-the-prerequisites-programming-46l6)
   - [Mobile Money Payments in Africa with MoneyUnify - A recommended Mobile Money API that supports MTN, Airtel, and other networks such as Zamtel](https://www.linkedin.com/pulse/mobile-money-payments-africa-moneyunify-recommended-mwanza)
   - [Avoid Jumping from one programming language to Another - Know Thy Craft](https://www.linkedin.com/pulse/avoid-jumping-from-one-programming-language-another-mwanza%3FtrackingId=CIBXmDV3yBVYmYBe5v0lXw%253D%253D/)
   - [Programming in High School](https://dev.to/mwanzabj/programming-in-high-school-3iji)
@@ -216,6 +216,14 @@
       {
         title: 'How to Sell and Market Like a Prostitute',
         Author: 'Edwin Ngwane'
+      },
+      {
+        title: 'The Psychology of Money'
+        Author: 'Morgan Housel'
+      },
+      {
+        Title: 'Deep Work'
+        Author: 'Cal Newport'
       }
     ]
   ```
@@ -226,6 +234,6 @@
 
      --- Let's keep Innovating, and remember to check out some of my pinned projects. <HappyCoding/>
 
-### Private Code Sessions Activity
+### Some Private Code Sessions Activity ( I use GitLab for corporate developments - it might not reflect here)
 
 <a href="https://wakatime.com/@blessedjasonmwanza" align="center" style="margin: 0 auto;"><img src="https://wakatime.com/share/@blessedjasonmwanza/da3f2a1c-5306-4762-a8b8-7b2ecf273a02.png" /></a>
