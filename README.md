@@ -219,11 +219,11 @@
         Author: 'Edwin Ngwane'
       },
       {
-        title: 'The Psychology of Money'
+        title: 'The Psychology of Money',
         Author: 'Morgan Housel'
       },
       {
-        Title: 'Deep Work'
+        Title: 'Deep Work',
         Author: 'Cal Newport'
       }
     ]
