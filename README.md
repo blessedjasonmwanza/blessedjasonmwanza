@@ -9,7 +9,7 @@
 
 🚀 Transforming ideas into cutting-edge solutions | Expertise in PHP, Laravel, JavaScript, React, JQuery, and Ruby on Rails | Collaborator in agile environments - (Currently Learning **Golang**)
 
-🌟 Recognized for [building startups](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/), [automating processes](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a), and integrating payment systems | [UNCDF-selected top 10 FinTech](https://www.uncdf.org/article/6136/ten-fintechs-join-the-sophomore-class-of-the-fintech4u-accelerator-programme-in-zambia) technology creator
+🌟 Recognized for [building startups](https://www.techtrends.co.zm/how-bravelender-is-revolutionizing-microfinance-in-africa-and-beyond/), [automating processes](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a), and integrating payment systems | [UNCDF-selected top 10 FinTech](https://www.uncdf.org/article/6136/ten-fintechs-join-the-sophomore-class-of-the-fintech4u-accelerator-programme-in-zambia) technology creator
 
 💡 Distinguished as the top [OpenSource External contributor](https://gitlab.com/doublegdp/app/-/issues/2506) to the pioneering **US$1.5 billion** [Smart City](https://chartercitiesinstitute.org/nkwashi) project's OS Software - developed by [DoubleGDP](https://doublegdp.com/). Made significant contributions to the project's success, providing noteworthy and feasible [feature suggestions](https://gitlab.com/doublegdp/handbook/-/blob/master/docs/product/04-prod-communications.md#feature-requests-bugs).
 
@@ -36,7 +36,7 @@
   >   - **Mobile Money Payments API in Africa** - checkout [MoneyUnify](https://moneyunify.com) or go directly to [Documentation](https://github.com/blessedjasonmwanza/MoneyUnify)
 
   > - A robust financial accounting and business management workspace cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
-  > -  A peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
+  > -  A peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://www.techtrends.co.zm/how-bravelender-is-revolutionizing-microfinance-in-africa-and-beyond/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
   > - During High-school, I Built **AlomoSystem**  [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/).  - [See Video interview by Facebook team](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
 
 - 👯  ```Would you prefer a collaborative approach, either with you or with your team? Please don't hesitate to contact me. I possess a strong commitment to continuous learning and I am receptive to receiving guidance and suggestions.```
@@ -104,11 +104,12 @@
      📰  &nbsp; See Written & Featured articles
   </summary> -->
   <h3  align="center"> Featured Articles </h3>
+
+  
+  - [How BraveLender Software is Revolutionizing Microfinance in Africa and Beyond](https://www.techtrends.co.zm/how-bravelender-is-revolutionizing-microfinance-in-africa-and-beyond/)
   
   - [Tech Mavericks: Revolutionizing the Digital Landscape](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a)
-  
-  - [AfriLending, The Future Of Lending Money in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/)
-  
+
   - [FinTech Startup Spotlight: Alomo System](https://bongohive.co.zm/startup-spotlight-alomo-system/)
 
   - [Meet Blessed Jason Mwanza: Founder of Alomo Systems and AfriLending](https://theafricandreamsl.com/meet-blessed-jason-mwanza-founder-of-alomo-systems-and-afrilending/)
