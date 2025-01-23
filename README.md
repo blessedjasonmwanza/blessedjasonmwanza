@@ -23,11 +23,13 @@
 📧 LinkedIn: [https://linkedin.com/in/blessedjasonmwanza](https://linkedin.com/in/blessedjasonmwanza)
 
 
-
+<center>
+  <img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" height="80px"/>
+</center>
 
 <h2> 👨🏻‍💻 &nbsp; More about me: </h2> 
 
-- 🔭 Previously at [Stickee](https://stickee.co.uk) and graduate student from [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) -  studied Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
+- 🔭 Currently at [SmoothStack](https://smoothstack) - Previously at [Stickee](https://stickee.co.uk), at [Probase](https://probasegroup.com),  and a graduate student from [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) -  studied Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
 
 ### Personal Projects
 
@@ -45,16 +47,24 @@
 
 :bar_chart: &nbsp;**_Frequently used Tech Stacks & Tools Preference_** 🤓 
 
+<center>
+  <img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" height="140px"/>
+</center>
 
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">&nbsp;
-<img src = "https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4">
+<div style="display:inline-flex">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
+<img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4">
+<img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" >
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Graphql-%cc6699?style=flat&logo=graphql&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white">
@@ -77,6 +87,7 @@
 <img src="https://img.shields.io/badge/Linux-666666?style=flat&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/Kali_Linux-1793D1?style=flat&logo=kali-linux&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-%23F24E1E?style=flat&logo=ubuntu&logoColor=white">
+</div>
 
 
 <br>
@@ -134,13 +145,17 @@
 <hr>
 
 #### 🤝🏻  &nbsp; I would love to build the future with you and your team. Reach out to me  already 🚀 - below are my contact details ;
-<br>
+<be>
+
+<center>
+  <img src="https://images.credly.com/size/340x340/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" height="140px"/>
+</center>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/blessedjasonmwanza/"><img src="https://img.shields.io/badge/blessedjasonmwanza-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
- <a href="https://angel.co/u/blessedjasonmwanza"><img src="https://img.shields.io/badge/blessedjasonmwanza-c3c3c3?style=for-the-badge&logo=Angellist&logoColor=black"/></a>
+ <a href="https://wellfound.com/u/blessedjasonmwanza"><img src="https://img.shields.io/badge/blessedjasonmwanza-c3c3c3?style=for-the-badge&logo=Wellfound&logoColor=orange"/></a>
 <a href="mailto:mwanzabj@gmail.com"><img src="https://img.shields.io/badge/-mwanzabj@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://x.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-1DA1F2?style=for-the-badge&logo=x&logoColor=black"/></a>
 <a href="https://medium.com/@mwanzabj"><img src="https://img.shields.io/badge/-@mwanzabj-3db399?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://instagram.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/blessedjasonmwanza"><img src="https://img.shields.io/badge/-Blessed%20Jason%20Mwanza-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
