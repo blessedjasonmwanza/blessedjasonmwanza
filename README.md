@@ -4,22 +4,22 @@
 
 <h1 align="center">Hi :wave:  , I am Blessed Jason Mwanza </h1>
 
-> ### <p align="center" width="150px">Simple guy | Innovative | Full-Stack Software Developer | Entrepreneur | Tech Enthusiast | Mentor | Fintech Lover </p>
+> ### <p align="center" width="150px">Simple guy | Innovative & Practical | Full-Stack Software Developer | Entrepreneur | Tech Enthusiast | Mentor | Fintech Lover </p>
 
 
-🚀 Transforming ideas into cutting-edge solutions | Expertise in PHP, Laravel, JavaScript, React, JQuery, and Ruby on Rails | Collaborator in agile environments - (Currently Learning **Golang**)
+🚀 Transforming ideas into cutting-edge solutions | Expertise in [Mojaloop](https://mojaloop.io/) Switch deployments, PHP, Laravel, JavaScript, React, JQuery, and Ruby on Rails | Collaborator in agile environments - (Currently Learning **Golang**)
 
 🌟 Recognized for [building startups](https://www.techtrends.co.zm/how-bravelender-is-revolutionizing-microfinance-in-africa-and-beyond/), [automating processes](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a), and integrating payment systems | [UNCDF-selected top 10 FinTech](https://www.uncdf.org/article/6136/ten-fintechs-join-the-sophomore-class-of-the-fintech4u-accelerator-programme-in-zambia) technology creator
 
-💡 Distinguished as the top [OpenSource External contributor](https://gitlab.com/doublegdp/app/-/issues/2506) to the pioneering **US$1.5 billion** [Smart City](https://chartercitiesinstitute.org/nkwashi) project's OS Software - developed by [DoubleGDP](https://doublegdp.com/). Made significant contributions to the project's success, providing noteworthy and feasible [feature suggestions](https://gitlab.com/doublegdp/handbook/-/blob/master/docs/product/04-prod-communications.md#feature-requests-bugs).
+💡 Distinguished as the top [OpenSource External contributor](https://gitlab.com/doublegdp/app/-/issues/2506) to the pioneering **US$1.5 billion** [Smart City](https://chartercitiesinstitute.org/nkwashi) project's OS Software - developed by [DoubleGDP](https://www.crunchbase.com/organization/doublegdp). Made significant contributions to the project's success, providing noteworthy and feasible [feature suggestions](https://gitlab.com/doublegdp/handbook/-/blob/master/docs/product/04-prod-communications.md#feature-requests-bugs).
 
-🫂 Passionate about mentoring junior developers and empowering underserved communities | Founder of [CompoundCode NGO](https://facebook.com/compoundcode) and **Community Lead** at [Meta Developer Circles](https://developers.facebook.com/developercircles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
+😍 Passionate about mentoring junior developers and empowering underserved communities | Founder of [CompoundCode NGO](https://facebook.com/compoundcode) and **Community Lead** at [Meta Developer Circles]([https://developers.facebook.com/developercircles/](https://developers.facebook.com/blog/post/2023/04/27/an-update-on-the-meta-developer-circles-program/)) - [Lusaka Community](https://web.facebook.com/groups/DevCLusaka).
 
-✨ Microverse-certified remote Full-Stack Web Developer | Proficient in SQL, Ruby, Redux, Google Cloud, and more
+✨ Microverse-Certified remote Full-Stack Software Developer | Certified in JS, React, SQL, Ruby, Redux, Google Cloud, and more
 
-💼 Let's create the future together! Open to exciting opportunities that value innovation, teamwork, and making a positive impact.
+💼 Let's create the future together! Open to exciting opportunities that value innovation, results, teamwork, and making a positive impact for future generations.
 
-> 🌐 Portfolio: [https://blessedjasonmwanza.tech](https://blessedjasonmwanza.tech) | 
+> 🌐 Portfolio: [https://blessedjasonmwanza.github.io](https://blessedjasonmwanza.github.io) | 
 📧 LinkedIn: [https://linkedin.com/in/blessedjasonmwanza](https://linkedin.com/in/blessedjasonmwanza)
 
 
@@ -29,7 +29,7 @@
 
 <h2> 👨🏻‍💻 &nbsp; More about me: </h2> 
 
-- 🔭 Currently at [SmoothStack](https://smoothstack) - Previously at [Stickee](https://stickee.co.uk), at [Probase](https://probasegroup.com),  and a graduate student from [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) -  studied Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
+- 🔭 Currently a DevOps Engineer [Izyane](https://www.izyane.com/) - Previously at [SmoothStack](https://smoothstack) , [Stickee](https://stickee.co.uk), at [Probase](https://probasegroup.com),  and a graduate student from [Microverse Inc](https://www.microverse.org/?grsf=kvpb2j) -  studied Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
 
 ### Personal Projects
 
