@@ -7,7 +7,7 @@
 > ### <p align="center" width="150px">Simple guy | Innovative & Practical | Full-Stack Software Developer | Entrepreneur | Tech Enthusiast | Mentor | Fintech Lover </p>
 
 
-🚀 Transforming ideas into cutting-edge solutions | Expertise in [Mojaloop](https://mojaloop.io/) Switch deployments, PHP, Laravel, JavaScript, React, JQuery, and Ruby on Rails | Collaborator in agile environments - (Currently Learning **Golang**)
+🚀 Less talk, more action while transforming ideas into cutting-edge solutions | Expertise in [Mojaloop](https://mojaloop.io/) Switch deployments, AWS, PHP, Laravel, JavaScript, React, JQuery, and Ruby on Rails | Collaborator in agile environments - (Currently Learning **Golang**)
 
 🌟 Recognized for [building startups](https://www.techtrends.co.zm/how-bravelender-is-revolutionizing-microfinance-in-africa-and-beyond/), [automating processes](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a), and integrating payment systems | [UNCDF-selected top 10 FinTech](https://www.uncdf.org/article/6136/ten-fintechs-join-the-sophomore-class-of-the-fintech4u-accelerator-programme-in-zambia) technology creator
 
