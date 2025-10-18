@@ -35,7 +35,7 @@
 
 📄 Enough talk - let the code speak. 🤠 So far, and in addition to private projects (_that might not show up here_ 🤓), I build and run;
 
-  >   - **Mobile Money Payments API in Africa** - checkout [MoneyUnify](https://moneyunify.com) or go directly to [Documentation](https://github.com/blessedjasonmwanza/MoneyUnify)
+  >   - **Mobile Money Payments API in Africa** - checkout [MoneyUnify](http://moneyunify.one) or go directly to [Documentation](https://github.com/blessedjasonmwanza/MoneyUnify)
 
   > - A robust financial accounting and business management workspace cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
   > -  A peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://www.techtrends.co.zm/how-bravelender-is-revolutionizing-microfinance-in-africa-and-beyond/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
@@ -130,7 +130,7 @@
 
   - [You’re NOT Dumb, You Just Lack the Prerequisites - Programming 💡](https://dev.to/mwanzabj/youre-not-dumb-you-just-lack-the-prerequisites-programming-46l6)
   - [Mobile Money Payments in Africa with MoneyUnify - A recommended Mobile Money API that supports MTN, Airtel, and other networks such as Zamtel](https://www.linkedin.com/pulse/mobile-money-payments-africa-moneyunify-recommended-mwanza)
-  - [Avoid Jumping from one programming language to Another - Know Thy Craft](https://www.linkedin.com/pulse/avoid-jumping-from-one-programming-language-another-mwanza%3FtrackingId=CIBXmDV3yBVYmYBe5v0lXw%253D%253D/)
+  - [Avoid Jumping from one programming language to another - Know Thy Craft](https://www.linkedin.com/pulse/avoid-jumping-from-one-programming-language-another-mwanza%3FtrackingId=CIBXmDV3yBVYmYBe5v0lXw%253D%253D/)
   - [Programming in High School](https://dev.to/mwanzabj/programming-in-high-school-3iji)
   - [Introducing Progate To Cavendish University Zambia — The Awesome Experience /> ](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
   
