@@ -1,6 +1,14 @@
 <a href="https://www.youtube.com/@blessedjasonmwanza"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><img src="languages-header.png"></p>
+<!-- <p align="center"><img src="languages-header.png"></p> -->
+<div align="center">
+  <a href="https://commit-history.com/blessedjasonmwanza">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/blessedjasonmwanza?theme=dark" />
+      <img alt="blessedjasonmwanza's commit history" src="https://commit-history.com/embed/blessedjasonmwanza" />
+    </picture>
+  </a>
+</div>
 
 <h1 align="center">Hi :wave:  , I am Blessed Jason Mwanza </h1>
 
